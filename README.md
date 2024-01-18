@@ -1,2 +1,2 @@
 # Java Code Injector
-## Injects .class files into existing .jar executables.
+## Injects java code into existing .jar executables.
